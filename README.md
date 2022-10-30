@@ -7,7 +7,10 @@ And develope Viz on the data to know if there is any relation between any values
 The coefficient matrix that was found from the model is following: -
 
 Avg. Session Length:   25.981550
+
 Time on App:           38.590159
+
 Time on Website:       0.190405
+
 Length of Membership:  61.279097
 
